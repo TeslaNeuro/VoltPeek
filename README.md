@@ -1,2 +1,2 @@
 # VoltPeek
-A personal experimentation environment for embedded development with Espressif and Raspberry Pi microcontrollers using MicroPython.
+A custom smart modular IoT analog and digital data acquisition board designed for hands-on experimentation and lab prototyping.
