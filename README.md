@@ -1,4 +1,4 @@
 # VoltPeek
 
-VoltPeek is a smart, modular IoT data acquisition board designed for prototyping within laboratory and field environments.
+VoltPeek is a smart, modular IoT data acquisition system designed for prototyping within laboratory and field environments.
 
